@@ -1,11 +1,11 @@
-About trame-router
-==================
+About trame-router-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-router-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/trame-router/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-router-feedstock/blob/main/LICENSE.txt)
 
 Summary: Vue Router widgets for trame
 
