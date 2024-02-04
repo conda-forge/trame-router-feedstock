@@ -1,5 +1,5 @@
 {% set name = "trame-router" %}
-{% set version = "2.1.0" %}
+{% set version = "2.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trame-router-{{ version }}.tar.gz
-  sha256: b14492c03c42d662984d6548c5a0d5438cf33381f4a7bbb332a3078eb587390e
+  sha256: f15c5985c09a7184e0dbaf146791a86e049f1a31d0975f09ff32111f15da6f3b
 
 build:
   number: 0
